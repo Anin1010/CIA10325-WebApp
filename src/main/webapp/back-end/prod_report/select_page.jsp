@@ -48,7 +48,7 @@
 </c:if>
 
 <ul>
-  <li><a href='listAllEmp.jsp'>List</a> all Emps.  <br><br></li>
+  <li><a href='listAllProductReport.jsp'>List</a> all Emps.  <br><br></li>
   
   
 <!--   <li> -->
