@@ -13,7 +13,7 @@ Product_reportService product_reportService = new Product_reportService();
 
 <html>
 <head>
-<title>所有員工資料 - listAllEmp.jsp</title>
+<title>所有檢舉資料 - listAllEmp.jsp</title>
 
 <style>
   table#table-1 {
